@@ -6,7 +6,7 @@ Saya adalah mahasiswa Program Sarjana (S1) Program Studi Informatika di Universi
 
    <p align="left">
       <a href="https://www.youtube.com/@DedadFajarIndonesia">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" /></a>
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Fsubscribe-button-youtube-icon-6472631%2F&psig=AOvVaw3tq5281z6XgucHzOPNalg_&ust=1700810984906000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiQ6enM2YIDFQAAAAAdAAAAABAD"/></a>
       <a href="https://github.com/VictoriaEstara?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/VictoriaEstara?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/VictoriaEstara?tab=repositories&sort=stargazers">
