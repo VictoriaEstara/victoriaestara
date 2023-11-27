@@ -1,4 +1,4 @@
-# 🏄‍♂️ Victoria Estara
+# 👨‍💻 Victoria Estara
 
 **`Dedad Fajar (Creator)`**
 
