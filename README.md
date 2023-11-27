@@ -4,6 +4,10 @@
 
 Saya adalah mahasiswa Program Sarjana (S1) Program Studi Informatika di Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
 
+<br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VictoriaEstara&theme=monokai-metallian&locale=id&mode=weekly" alt="GitHub Streak" /></a>
+
+<br/>
 
 ### 🧰 Languages
 
@@ -15,6 +19,6 @@ Saya adalah mahasiswa Program Sarjana (S1) Program Studi Informatika di Universi
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <br/>
 <br/>
+<br/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VictoriaEstara&theme=monokai-metallian&locale=id&mode=weekly" alt="GitHub Streak" /></a>
 <img alt="top langs" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaestara&layout=compact&theme=tokyonight"/>
