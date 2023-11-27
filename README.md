@@ -2,7 +2,8 @@
 
 **`Dedad Fajar (Creator)`**
 
-Saya adalah mahasiswa Program Sarjana (S1) Program Studi Informatika di Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
+Saya adalah mahasiswa Program Sarjana (S1) Program Studi Informatika
+di Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
 
 <br/>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VictoriaEstara&theme=monokai-metallian&locale=id&mode=weekly" alt="GitHub Streak" /></a>
