@@ -17,3 +17,6 @@ Saya adalah mahasiswa Program Sarjana (S1) Program Studi Informatika di Universi
 <br/>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VictoriaEstara&theme=monokai-metallian&locale=id&mode=weekly" alt="GitHub Streak" /></a>
+
+<img alt="my stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=victoriaestara"/>
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaestara&layout=compact"/>
