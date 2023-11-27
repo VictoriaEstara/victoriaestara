@@ -4,6 +4,8 @@
 
 Saya adalah mahasiswa Program Sarjana (S1) Program Studi Informatika di Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoriaestara)](https://github.com/victoriaestara/github-readme-stats)
+
 ### 🧰 Languages
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
