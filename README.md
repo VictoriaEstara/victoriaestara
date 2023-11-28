@@ -20,11 +20,9 @@ di Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cpp" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vue" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=arduino" />
+<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=matlab" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ts" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
-<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=matlab" />
-<img align="left" alt="adobePhotoShop" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ps" />
-<img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vercel" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vscode" />
 
 <br/>
