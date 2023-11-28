@@ -1,6 +1,6 @@
 # 👨‍💻 Victoria Estara
 
-**`Dedad Fajar (Collage Student, Creator Gaming, Tutorial)`**
+**`Dedad Fajar (Collage Student, Creator Gaming-Tutorial)`**
 
 Saya adalah mahasiswa Program Sarjana (S1) Program Studi Informatika
 <br>
