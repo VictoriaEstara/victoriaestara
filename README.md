@@ -1,8 +1,9 @@
 # 👨‍💻 Victoria Estara
 
-**`Dedad Fajar (Creator)`**
+**`Dedad Fajar (Collage Student, Creator Gaming, Tutorial)`**
 
 Saya adalah mahasiswa Program Sarjana (S1) Program Studi Informatika
+<br>
 di Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
 
 <br/>
