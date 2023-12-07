@@ -18,6 +18,7 @@ di Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=js" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cpp" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=php" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vue" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=py" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=arduino" />
