@@ -1,4 +1,8 @@
 # 👨‍💻 Victoria Estara
+<img alt="Profile Visitor" src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" />
+<img alt="Instagram" href="instagram.com/dedad_fajar" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+
 
 **`Dedad Fajar (Collage Student, Creator Gaming-Tutorial)`**
 
