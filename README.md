@@ -1,8 +1,8 @@
 # 👨‍💻 Victoria Estara
-<img alt="Profile Visitor" src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" />
-<img alt="Instagram" href="instagram.com/dedad_fajar" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img align="left" alt="Profile Visitor" width="120px" src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" />
 
-
+<br/>
+<br/>
 
 **`Dedad Fajar (Collage Student, Creator Gaming-Tutorial)`**
 
@@ -36,3 +36,5 @@ di Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
 <br/>
 
 <img alt="top langs" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaestara&layout=compact&theme=tokyonight"/>
+
+<img align="left" alt="Instagram" width="120px" href="instagram.com/dedad_fajar" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
