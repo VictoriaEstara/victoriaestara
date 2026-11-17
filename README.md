@@ -28,5 +28,3 @@ As an Informatics graduate, I combine technical expertise with a strong sense of
 <br/>
 <br/>
 <br/>
-
-<img align="left" alt="Instagram" width="120px" href="instagram.com/dedad_fajar" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
