@@ -4,16 +4,10 @@
 <br/>
 <br/>
 
-**`Dedad Fajar (Collage Student, Creator Gaming-Tutorial)`**
-
-Saya adalah mahasiswa Program Sarjana (S1) Program Studi Informatika
-<br>
-di Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
+As an Informatics graduate, I combine technical expertise with a strong sense of UI/UX design to build intuitive, user-centric digital products. My experience leading a cross-functional team in designing a healthcare app earned us a Top 50 National Capstone Project award at Bangkit Academy. I further solidified these skills as a UX Teaching Assistant, mentoring students in applying Human-Computer Interaction (HCI) principles.
 
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VictoriaEstara&theme=monokai-metallian&locale=id&mode=weekly" alt="GitHub Streak" /></a>
 
-<br/>
 
 ### 🧰 Languages & Tools
 
@@ -34,7 +28,5 @@ di Universitas Islam Negeri Sunan Kalijaga Yogyakarta.
 <br/>
 <br/>
 <br/>
-
-<img alt="top langs" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaestara&layout=compact&theme=tokyonight"/>
 
 <img align="left" alt="Instagram" width="120px" href="instagram.com/dedad_fajar" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
